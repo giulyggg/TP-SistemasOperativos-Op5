@@ -1,6 +1,7 @@
 # TP-SistemasOperativos-Op5
 
-Integrantes:
-.
-.
-Tema:
+Integrantes: 
+- Giuliana Ambrueso
+- 
+
+Tema: Sockets TCP 
