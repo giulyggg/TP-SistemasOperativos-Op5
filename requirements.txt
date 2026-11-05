@@ -1,4 +1,1 @@
-__pycache__/ 
-.venv/ 
-.vscode/ 
-.idea/
+*Para instalar dependencias*
