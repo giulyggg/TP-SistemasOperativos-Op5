@@ -1,6 +1,6 @@
 # TP-SistemasOperativos-Op5
 
-Integrantes: 
+Integrantes:
+.
+.
 Tema:
-
-
