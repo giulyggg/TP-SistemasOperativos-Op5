@@ -65,7 +65,8 @@ def mostrar_menu():
     print(" 2. Simular ráfaga de ventas automáticas")
     print(" 3. Desconectar y salir")
     print("="*45)
-          
+
+
                                                  
 if __name__ == "__main__":
     iniciarCliente()    
