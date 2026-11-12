@@ -2,7 +2,7 @@ import socket
 import datetime
 import threading
 
-HOST = '127.0.0.1'
+HOST = '0.0.0.0'
 PUERTO = 5000
 
 # Bloqueo para evitar que se mezclen los mensajes de los hilos
