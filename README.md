@@ -1,7 +1,7 @@
 # TP-SistemasOperativos-Op5
 
 Integrantes: 
-- Giuliana Ambrueso
-- 
+- Ambrueso Giuliana
+- Lazo Alejandra
 
 Tema: Sockets TCP 
